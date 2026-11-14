@@ -1,0 +1,24 @@
+{
+  "name": "Upliftment newsletter giveaway",
+  "closes_at": "2027-01-05T17:00:00-05:00",
+  "time_zone": "America/Toronto",
+  "minimum_age": 18,
+  "entry_method": "Newsletter signup",
+  "required_fields": [
+    "name",
+    "email",
+    "updates_consent",
+    "age_18",
+    "winner_publicity",
+    "privacy_consent"
+  ],
+  "winner_count": 3,
+  "prize_per_winner": [
+    "Upliftment album copy",
+    "T-shirt"
+  ],
+  "notification": "email",
+  "winner_names_published_online": true,
+  "restriction": "Void where prohibited",
+  "status": "preview-only; delivery and full rules pending"
+}

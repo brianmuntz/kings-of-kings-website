@@ -1,0 +1,510 @@
+{
+  "/": {
+    "title": "Kings of Kings International | Records, Reggae & Live Events",
+    "description": "Discover Kings of Kings International: reggae records, original artwork, artist release credits and a visual history of live concerts and showcases."
+  },
+  "/studio/": {
+    "title": "Reggae Events | Upcoming Shows & Event History | Kings of Kings International",
+    "description": "Find upcoming Kings of Kings International shows and explore past concerts, Toronto and Montr\u00e9al showcases, original flyers and artist lineups."
+  },
+  "/events/reggae-ambassadors-pickering-2026/": {
+    "title": "Reggae Ambassadors Day Rave \u2014 Pickering 11 OCT 2026 | Kings of Kings International",
+    "description": "An afternoon and evening of live reggae at Aqu\u00e1rio Beach Club, presented by Kings of Kings International and Farex Entertainment. The lineup featured Marcia Griffiths, Turbulence, Jah Mason, Iley Dread and Angie Angel."
+  },
+  "/events/reggae-ambassadors-niagara-2026/": {
+    "title": "Reggae Ambassadors in Concert \u2014 Niagara Falls 10 OCT 2026 | Kings of Kings International",
+    "description": "The Reggae Ambassadors concert brought Marcia Griffiths and a lineup of reggae performers to The Columbus Room in Niagara Falls."
+  },
+  "/events/reggae-ambassadors-toronto-2026/": {
+    "title": "Reggae Ambassadors in Concert \u2014 Toronto 09 OCT 2026 | Kings of Kings International",
+    "description": "Sister Nancy joined Turbulence, Jah Mason, Iley Dread and Angie Angel for the Toronto Reggae Ambassadors concert at Phoenix Concert Theatre."
+  },
+  "/events/unleashed-toronto-2016/": {
+    "title": "Unleashed \u2014 Record Release & Showcase \u2014 Toronto 01 MAY 2016 | Kings of Kings International",
+    "description": "The Toronto Record Release & Showcase at The Opera House featured Colin Levy / Iley Chardavid alongside Judy Mowatt, Exco Levi, Chrisinti, Leroy Gibbons, Jah Cutta, Fire Lion and Mikey Dangerous, as listed on the original flyer."
+  },
+  "/events/unleashed-montreal-2016/": {
+    "title": "Unleashed \u2014 Montr\u00e9al Showcase \u2014 Montr\u00e9al 30 APR 2016 | Kings of Kings International",
+    "description": "The original Montr\u00e9al flyer documents an Unleashed Record Release & Showcase at Le Belmont on April 30, 2016, with Colin Levy / Iley Chardavid and guest performers."
+  },
+  "/events/1000-degrees-2018/": {
+    "title": "1000 Degrees of Sweet \u2014 Toronto 07 OCT 2018 | Kings of Kings International",
+    "description": "The October 7, 2018 flyer features Cocoa Tea, Louie Culture, Len Hammond, Japanese Fyanese, Jah Cutta and Chelsea Stewart. The artwork identifies a cancer-survivor fundraiser and the Step by Step Band."
+  },
+  "/events/sizzla-rise-to-the-occasion-2026/": {
+    "title": "Sizzla Youth Foundation \u2014 Rise to the Occasion \u2014 Scarborough 30 AUG 2026 | Kings of Kings International",
+    "description": "The live site advertised the second annual Sizzla Youth Foundation fireside chat and community conversation, supporting the foundation and Urban Rez Community Mobile Unit."
+  },
+  "/events/31st-anniversary-montreal-2026/": {
+    "title": "Kings of Kings 31st Anniversary \u2014 Montr\u00e9al \u2014 Montr\u00e9al 29 MAY 2026 | Kings of Kings International",
+    "description": "The 31st anniversary celebration connected sound system culture with an Iley Dread album launch. The original listing names Tony Matterhorn, Iley Dread and Stone Love."
+  },
+  "/events/31st-anniversary-toronto-2026/": {
+    "title": "Kings of Kings 31st Anniversary \u2014 Toronto \u2014 Toronto 30 MAY 2026 | Kings of Kings International",
+    "description": "The 31st anniversary celebration connected sound system culture with an Iley Dread album launch. The original listing names Tony Matterhorn, Iley Dread and Stone Love."
+  },
+  "/events/rub-a-dub-live-2025/": {
+    "title": "Rub-A-Dub Live \u2014 Dinner & Dance \u2014 Toronto 08 NOV 2025 | Kings of Kings International",
+    "description": "Thriller Music, in association with Kings of Kings International, advertised a Jamaican-style Rub-A-Dub Live dinner and dance with a multi-artist lineup."
+  },
+  "/events/icho-candy-toronto-2025/": {
+    "title": "Icho Candy Live in Toronto \u2014 Toronto 07 NOV 2025 | Kings of Kings International",
+    "description": "Presented by Thriller Music alongside Kings of Kings International, this Toronto listing featured Icho Candy and guests, with Kings of Kings Sounds and Routzman Sounds."
+  },
+  "/events/oasis-music-festival-2025/": {
+    "title": "OASIS Music Festival \u2014 Markham 23 AUG 2025 | Kings of Kings International",
+    "description": "Presented by Chystar Promotions and BMW Promo. The live site listed Kings of Kings among the event partners; this is a partner-event archive, rather than a claim of sole production."
+  },
+  "/events/reggae-r-us-2025/": {
+    "title": "Reggae R Us Festival \u2014 Etobicoke 26 JUL 2025 | Kings of Kings International",
+    "description": "A festival listing on the Kings website presented by Black Xkimo and Blackheart iNiversal, powered by Jahni Records, with Iley Dread among the performers."
+  },
+  "/events/30th-anniversary-2025/": {
+    "title": "One More Year Pan Dem \u2014 30th Anniversary \u2014 Toronto 30 MAY 2025 | Kings of Kings International",
+    "description": "The 30th anniversary Jubilee Celebration featured a dinner and show, with Iley Dread, Etana, Professor Nuts and Tony Anthony named on the original poster."
+  },
+  "/events/nostalgia-eban-brown-2025/": {
+    "title": "Nostalgia \u2014 Eban Brown \u2014 Toronto 14 FEB 2025 | Kings of Kings International",
+    "description": "The Valentine\u2019s Night poster features Eban Brown, described on the artwork as a former lead voice of The Stylistics, alongside guest artists and the Hardcore Band. Captured from the live site\u2019s gallery."
+  },
+  "/events/reggae-extravaganza-oshawa-2025/": {
+    "title": "Reggae Extravaganza \u2014 Monthly Series Launch \u2014 Oshawa 28 FEB 2025 | Kings of Kings International",
+    "description": "The gallery poster advertised a live-band series starting February 28, 2025, on the last Friday of each month. This entry preserves the advertised launch; subsequent dates are not assumed."
+  },
+  "/events/lt-stitchie-benefit-2024/": {
+    "title": "Fundraising Benefit for Lt. Stitchie \u2014 Toronto 01 DEC 2024 | Kings of Kings International",
+    "description": "The live site advertised a fundraising benefit for Lt. Stitchie at the JCA. Multiple versions of the poster are preserved in the flyer collection; they list different times and guest details."
+  },
+  "/events/classic-super-d-2024/": {
+    "title": "Classic \u2014 Celebrating Super D\u2019s Birthday \u2014 Toronto 30 NOV 2024 | Kings of Kings International",
+    "description": "Super D and Juby Promotions presented this birthday celebration, advertised on the Kings site. The flyer names the participating sound systems."
+  },
+  "/events/reggae-extravaganza-brantford-2024/": {
+    "title": "Reggae Extravaganza \u2014 Brantford \u2014 Brantford 23 AUG 2024 | Kings of Kings International",
+    "description": "Kings of Kings in association with ML Promo advertised this Brantford concert. The date and venue are printed on the original flyer."
+  },
+  "/events/tribute-to-the-legends-2024/": {
+    "title": "Tribute to the Legends \u2014 Toronto 10 MAY 2024 | Kings of Kings International",
+    "description": "The first of the 2024 Mother\u2019s Day weekend shows, documented by the Canada event page and original concert posters. Artwork versions preserve changes to the advertised lineup."
+  },
+  "/events/unite-the-people-2024/": {
+    "title": "Unite the People \u2014 Pickering 11 MAY 2024 | Kings of Kings International",
+    "description": "The Pickering date of the 2024 Mother\u2019s Day weekend featured the Unite the People showcase. Different poster versions are retained as historical material."
+  },
+  "/events/wonderful-vibrations-2024/": {
+    "title": "Wonderful Vibrations \u2014 Mother\u2019s Day \u2014 Toronto 12 MAY 2024 | Kings of Kings International",
+    "description": "The Mother\u2019s Day concert at Rebel completed the three-show weekend. The original posters and Canada page document its advertised performers."
+  },
+  "/events/magnum-christmas-extravaganza-2008/": {
+    "title": "Magnum Christmas Reggae Extravaganza \u2014 Black River 25 DEC 2008 | Kings of Kings International",
+    "description": "G.T. Promotions\u2019 Christmas event poster is preserved in the Kings website gallery. Its presence in the archive does not establish Kings as the producer."
+  },
+  "/about/": {
+    "title": "Our Story: Reggae, Culture & Live Music | Kings of Kings International",
+    "description": "Learn about Kings of Kings International and its roots reggae, lover\u2019s rock, Wonderful Vibrations showcases and international live performances."
+  },
+  "/contact/": {
+    "title": "Contact Kings of Kings | Events, Artists & Partnerships | Kings of Kings International",
+    "description": "Enquire about touring, live events, artist bookings, record releases, charities and sponsorship. Join Kings of Kings event updates and Top 15 chart news."
+  },
+  "/reggae-events/": {
+    "title": "Earlier Reggae Events | Kings of Kings International",
+    "description": "Explore the Kings of Kings International archive of earlier reggae concerts, performers and cultural events."
+  },
+  "/canada/": {
+    "title": "Canada Concert Archive | Kings of Kings International",
+    "description": "Explore archived Canadian reggae concert information from Kings of Kings International and Wonderful Vibrations."
+  },
+  "/blog/": {
+    "title": "News & Statements Archive | Kings of Kings International",
+    "description": "Read archived news and statements from Kings of Kings International."
+  },
+  "/gallery/": {
+    "title": "Kings Artwork Gallery | Record Covers & Historic Flyers | Kings of Kings International",
+    "description": "Browse original Kings of Kings record covers, Colin Levy and Judy Mowatt artwork, historic concert posters and Unleashed showcase flyers."
+  },
+  "/programs/": {
+    "title": "Kings Merchandise | Upliftment T-Shirts Coming Soon | Kings of Kings International",
+    "description": "Preview Kings of Kings and Iley Dread Upliftment T-shirt mockups. Merchandise and online ordering are coming soon."
+  },
+  "/tickets/": {
+    "title": "Tickets & Show Information | Kings of Kings International",
+    "description": "Contact Kings of Kings International for current reggae concert announcements, ticket availability and official purchasing information."
+  },
+  "/404/": {
+    "title": "Page Not Found | Kings of Kings International",
+    "description": "Find your way back to Kings of Kings International events, artist enquiries and reggae culture."
+  },
+  "/record-label/": {
+    "title": "Kings of Kings Records | Reggae Label & Discography | Kings of Kings International",
+    "description": "Explore Kings of Kings Records: original releases, Colin Levy and Iley Dread artwork, reggae and dancehall label credits, and the stories behind the catalogue."
+  },
+  "/record-label/releases/upliftment/": {
+    "title": "Upliftment \u2014 Iley Dread | New Album January 5, 2027 | Kings of Kings International",
+    "description": "Upliftment, the new Iley Dread album. Street date January 5, 2027; early release copies at the iTunes Store starting November 27, 2026."
+  },
+  "/record-label/releases/unite-the-people/": {
+    "title": "Unite the People \u2014 Colin Levy aka Iley Dread | Kings of Kings International",
+    "description": "The supplied remastered artwork connects Colin Levy\u2019s name with Iley Dread and carries the Kings of Kings crown identity."
+  },
+  "/record-label/releases/lovers-holiday/": {
+    "title": "Lover\u2019s Holiday \u2014 Colin Levy | Kings of Kings International",
+    "description": "The single artwork and accompanying release-showcase material document Lover\u2019s Holiday, from Colin Levy, also known as Iley Dread."
+  },
+  "/record-label/releases/miracle/": {
+    "title": "Miracle \u2014 Judy Mowatt feat. Chardavid | Kings of Kings International",
+    "description": "Judy Mowatt and Chardavid appear together on the supplied Miracle artwork. A companion Jamaica Day flyer carries the Kings of Kings crown identity."
+  },
+  "/record-label/releases/unleashed/": {
+    "title": "Unleashed \u2014 Iley Chardavid | Kings of Kings International",
+    "description": "The supplied Unleashed campaign artwork is complemented by record-release showcase flyers for Montr\u00e9al and Toronto in April and May 2016."
+  },
+  "/record-label/releases/islands-in-the-stream/": {
+    "title": "Islands in the Stream \u2014 Iley Dread ft. Mel C | Kings of Kings International",
+    "description": "Islands in the Stream \u2014 current release artwork from Kings of Kings."
+  },
+  "/record-label/releases/love-me-forever/": {
+    "title": "Love Me Forever \u2014  | Kings of Kings International",
+    "description": "Love Me Forever \u2014 current release artwork from Kings of Kings."
+  },
+  "/record-label/releases/many-rivers/": {
+    "title": "Many Rivers \u2014  | Kings of Kings International",
+    "description": "Many Rivers \u2014 current release artwork from Kings of Kings."
+  },
+  "/record-label/releases/nah-cheat/": {
+    "title": "Nah Cheat \u2014 Virtuous Woman \u2014 Iley Dread | Kings of Kings International",
+    "description": "Nah Cheat \u2014 Virtuous Woman \u2014 current release artwork from Kings of Kings."
+  },
+  "/history/": {
+    "title": "The Kings Archive | Reggae Artists, Shows & Stories | Kings of Kings International",
+    "description": "Discover original Kings artwork, Capleton and Cocoa Tea flyers, Colin Levy release showcases, reggae artists and historic concert posters."
+  },
+  "/history/posters/reggae-55th-anniversary-ambassador-award-show/": {
+    "title": "Reggae 55th Anniversary \u2014 Ambassador Award Show | Original Event Poster | Kings of Kings International",
+    "description": "Advertised August 25, 2024 in Toronto. The same advance poster also mentions Montr\u00e9al on August 23 and Ottawa on August 24. Venue and final programme are not supplied; names below the headline are award nominees, not a confirmed performance lineup."
+  },
+  "/history/posters/grateful-vibes-awards-presentation/": {
+    "title": "Grateful Vibes \u2014 Awards Presentation | Original Event Poster | Kings of Kings International",
+    "description": "Advertised October 13 at the JCA with I-Octane. The website text says 2004, while its 2024 placement and Sunday wording conflict with that year. The year is left unresolved."
+  },
+  "/history/posters/montr-al-reggae-extravaganza/": {
+    "title": "Montr\u00e9al Reggae Extravaganza | Original Event Poster | Kings of Kings International",
+    "description": "Advertised August 23 at MTELUS, 59 St Catherine Street East. No year is printed on this flyer; another advance poster mentions a Montr\u00e9al date in 2024."
+  },
+  "/history/posters/purple-n-grey-summer-mix/": {
+    "title": "Purple N Grey Summer Mix | Original Event Poster | Kings of Kings International",
+    "description": "I-Octane and Stone Love at EB Club Lounge, Montr\u00e9al, August 13. The printed year is not fully legible, so no year is assigned."
+  },
+  "/history/posters/rastafari-awareness-day/": {
+    "title": "Rastafari Awareness Day | Original Event Poster | Kings of Kings International",
+    "description": "The Ethiopian World Federation 25th anniversary poster lists March 1, 2008 at South Birmingham College auditorium. Retained as gallery material; no Kings production role is assumed."
+  },
+  "/history/posters/irie-jamboree-06/": {
+    "title": "Irie Jamboree \u201906 | Original Event Poster | Kings of Kings International",
+    "description": "Historical festival advertisement found in the Kings gallery. The visible cover does not provide a complete date or venue."
+  },
+  "/history/posters/mavado-friends/": {
+    "title": "Mavado & Friends | Original Event Poster | Kings of Kings International",
+    "description": "Skip2Fame\u2019s November 5, 2026 Scotiabank Arena poster, found in the gallery. Preserved as an externally promoted listing."
+  },
+  "/history/posters/lover-s-holiday-cd-release-party/": {
+    "title": "Lover\u2019s Holiday \u2014 CD Release Party | Original Event Poster | Kings of Kings International",
+    "description": "December 19 at the Annex WreckRoom. The year is not printed; preserved alongside the supplied release showcase artwork."
+  },
+  "/history/posters/wonderful-vibrations-canada/": {
+    "title": "Wonderful Vibrations \u2014 Canada | Original Event Poster | Kings of Kings International",
+    "description": "2024 regional campaign artwork, rather than an additional dated show."
+  },
+  "/history/posters/wonderful-vibrations-germany/": {
+    "title": "Wonderful Vibrations \u2014 Germany | Original Event Poster | Kings of Kings International",
+    "description": "2024 regional campaign artwork without a confirmed calendar date."
+  },
+  "/history/posters/wonderful-vibrations-jamaica/": {
+    "title": "Wonderful Vibrations \u2014 Jamaica | Original Event Poster | Kings of Kings International",
+    "description": "2024 regional campaign artwork. A 2023 announcement proposed a Jamaican event, with date and artists still to be announced."
+  },
+  "/history/flyers/flyer-0/": {
+    "title": "One More Year Pan Dem \u2014 30th Anniversary \u2014 30 MAY 2025 | Kings of Kings International",
+    "description": "One More Year Pan Dem \u2014 30th Anniversary. 30 MAY 2025. 995 Arrow Road, Toronto, Ontario. Original flyer and advertised performers."
+  },
+  "/history/flyers/flyer-1/": {
+    "title": "Tribute to the Legends \u2014 10 MAY 2024 | Kings of Kings International",
+    "description": "Tribute to the Legends. 10 MAY 2024. 995 Arrow Road, Toronto, Ontario. Original flyer and advertised performers."
+  },
+  "/history/flyers/flyer-2/": {
+    "title": "Unite the People \u2014 11 MAY 2024 | Kings of Kings International",
+    "description": "Unite the People. 11 MAY 2024. 2200 Brock Road, Pickering, Ontario. Original flyer and advertised performers."
+  },
+  "/history/flyers/flyer-3/": {
+    "title": "Wonderful Vibrations \u2014 Mother\u2019s Day \u2014 12 MAY 2024 | Kings of Kings International",
+    "description": "Wonderful Vibrations \u2014 Mother\u2019s Day. 12 MAY 2024. 11 Polson Street, Toronto, Ontario. Original flyer and advertised performers."
+  },
+  "/history/flyers/flyer-4/": {
+    "title": "Reggae 55th Anniversary \u2014 Ambassador Award Show \u2014 August 25, 2024 | Kings of Kings International",
+    "description": "Reggae 55th Anniversary \u2014 Ambassador Award Show. August 25, 2024. Toronto, Ontario. Original flyer and advertised performers."
+  },
+  "/history/flyers/flyer-5/": {
+    "title": "Reggae Extravaganza \u2014 Brantford \u2014 23 AUG 2024 | Kings of Kings International",
+    "description": "Reggae Extravaganza \u2014 Brantford. 23 AUG 2024. 310 Colborne Street East, Brantford, Ontario. Original flyer and advertised performers."
+  },
+  "/history/flyers/flyer-6/": {
+    "title": "Wonderful Vibrations \u2014 Canada \u2014 2024 campaign \u2014 no show date | Kings of Kings International",
+    "description": "Wonderful Vibrations \u2014 Canada. 2024 campaign \u2014 no show date. Canada. Original flyer and advertised performers."
+  },
+  "/history/flyers/flyer-7/": {
+    "title": "Tribute to the Legends \u2014 10 MAY 2024 | Kings of Kings International",
+    "description": "Tribute to the Legends. 10 MAY 2024. 995 Arrow Road, Toronto, Ontario. Original flyer and advertised performers."
+  },
+  "/history/flyers/flyer-8/": {
+    "title": "Unite the People \u2014 11 MAY 2024 | Kings of Kings International",
+    "description": "Unite the People. 11 MAY 2024. 2200 Brock Road, Pickering, Ontario. Original flyer and advertised performers."
+  },
+  "/history/flyers/flyer-9/": {
+    "title": "Wonderful Vibrations \u2014 Mother\u2019s Day \u2014 12 MAY 2024 | Kings of Kings International",
+    "description": "Wonderful Vibrations \u2014 Mother\u2019s Day. 12 MAY 2024. 11 Polson Street, Toronto, Ontario. Original flyer and advertised performers."
+  },
+  "/history/flyers/flyer-11/": {
+    "title": "Wonderful Vibrations \u2014 Germany \u2014 2024 campaign \u2014 no show date | Kings of Kings International",
+    "description": "Wonderful Vibrations \u2014 Germany. 2024 campaign \u2014 no show date. Germany. Original flyer and advertised performers."
+  },
+  "/history/flyers/flyer-12/": {
+    "title": "Wonderful Vibrations \u2014 Jamaica \u2014 2024 campaign \u2014 no show date | Kings of Kings International",
+    "description": "Wonderful Vibrations \u2014 Jamaica. 2024 campaign \u2014 no show date. Jamaica. Original flyer and advertised performers."
+  },
+  "/history/flyers/flyer-14/": {
+    "title": "Rub-A-Dub Live \u2014 Dinner & Dance \u2014 08 NOV 2025 | Kings of Kings International",
+    "description": "Rub-A-Dub Live \u2014 Dinner & Dance. 08 NOV 2025. 3580 McNicoll Avenue, Toronto, Ontario. Original flyer and advertised performers."
+  },
+  "/history/flyers/flyer-15/": {
+    "title": "Icho Candy Live in Toronto \u2014 07 NOV 2025 | Kings of Kings International",
+    "description": "Icho Candy Live in Toronto. 07 NOV 2025. 995 Arrow Road, Toronto, Ontario. Original flyer and advertised performers."
+  },
+  "/history/flyers/flyer-16/": {
+    "title": "Fundraising Benefit for Lt. Stitchie \u2014 01 DEC 2024 | Kings of Kings International",
+    "description": "Fundraising Benefit for Lt. Stitchie. 01 DEC 2024. 995 Arrow Road, North York, Ontario. Original flyer and advertised performers."
+  },
+  "/history/flyers/flyer-17/": {
+    "title": "Fundraising Benefit for Lt. Stitchie \u2014 01 DEC 2024 | Kings of Kings International",
+    "description": "Fundraising Benefit for Lt. Stitchie. 01 DEC 2024. 995 Arrow Road, North York, Ontario. Original flyer and advertised performers."
+  },
+  "/history/flyers/flyer-18/": {
+    "title": "Tribute to the Legends \u2014 10 MAY 2024 | Kings of Kings International",
+    "description": "Tribute to the Legends. 10 MAY 2024. 995 Arrow Road, Toronto, Ontario. Original flyer and advertised performers."
+  },
+  "/history/flyers/flyer-19/": {
+    "title": "Unite the People \u2014 11 MAY 2024 | Kings of Kings International",
+    "description": "Unite the People. 11 MAY 2024. 2200 Brock Road, Pickering, Ontario. Original flyer and advertised performers."
+  },
+  "/history/flyers/flyer-20/": {
+    "title": "Wonderful Vibrations \u2014 Mother\u2019s Day \u2014 12 MAY 2024 | Kings of Kings International",
+    "description": "Wonderful Vibrations \u2014 Mother\u2019s Day. 12 MAY 2024. 11 Polson Street, Toronto, Ontario. Original flyer and advertised performers."
+  },
+  "/history/flyers/flyer-45/": {
+    "title": "Reggae Ambassadors Day Rave \u2014 11 OCT 2026 | Kings of Kings International",
+    "description": "Reggae Ambassadors Day Rave. 11 OCT 2026. 949 Dillingham Road, Pickering, Ontario. Original flyer and advertised performers."
+  },
+  "/history/flyers/flyer-46/": {
+    "title": "Reggae Ambassadors in Concert \u2014 09 OCT 2026 | Kings of Kings International",
+    "description": "Reggae Ambassadors in Concert. 09 OCT 2026. 41 Sherbourne Street, Toronto, Ontario. Original flyer and advertised performers."
+  },
+  "/history/flyers/flyer-47/": {
+    "title": "Sizzla Youth Foundation \u2014 Rise to the Occasion \u2014 30 AUG 2026 | Kings of Kings International",
+    "description": "Sizzla Youth Foundation \u2014 Rise to the Occasion. 30 AUG 2026. 91 Rylander Boulevard, Scarborough, Ontario. Original flyer and advertised performers."
+  },
+  "/history/flyers/flyer-48/": {
+    "title": "Reggae Ambassadors in Concert \u2014 09 OCT 2026 | Kings of Kings International",
+    "description": "Reggae Ambassadors in Concert. 09 OCT 2026. 41 Sherbourne Street, Toronto, Ontario. Original flyer and advertised performers."
+  },
+  "/history/flyers/flyer-49/": {
+    "title": "Reggae Ambassadors in Concert \u2014 09 OCT 2026 | Kings of Kings International",
+    "description": "Reggae Ambassadors in Concert. 09 OCT 2026. 41 Sherbourne Street, Toronto, Ontario. Original flyer and advertised performers."
+  },
+  "/history/flyers/flyer-50/": {
+    "title": "Reggae Ambassadors in Concert \u2014 10 OCT 2026 | Kings of Kings International",
+    "description": "Reggae Ambassadors in Concert. 10 OCT 2026. 6990 Stanley Avenue, Niagara Falls, Ontario. Original flyer and advertised performers."
+  },
+  "/history/flyers/flyer-51/": {
+    "title": "Kings of Kings 31st Anniversary \u2014 Montr\u00e9al \u2014 29 MAY 2026 | Kings of Kings International",
+    "description": "Kings of Kings 31st Anniversary \u2014 Montr\u00e9al. 29 MAY 2026. Montr\u00e9al, Qu\u00e9bec. Original flyer and advertised performers."
+  },
+  "/history/flyers/flyer-53/": {
+    "title": "Kings of Kings 31st Anniversary \u2014 Toronto \u2014 30 MAY 2026 | Kings of Kings International",
+    "description": "Kings of Kings 31st Anniversary \u2014 Toronto. 30 MAY 2026. 995 Arrow Road, North York, Ontario. Original flyer and advertised performers."
+  },
+  "/history/flyers/flyer-54/": {
+    "title": "OASIS Music Festival \u2014 23 AUG 2025 | Kings of Kings International",
+    "description": "OASIS Music Festival. 23 AUG 2025. 10801 McCowan Road, Markham, Ontario. Original flyer and advertised performers."
+  },
+  "/history/flyers/flyer-55/": {
+    "title": "Reggae R Us Festival \u2014 26 JUL 2025 | Kings of Kings International",
+    "description": "Reggae R Us Festival. 26 JUL 2025. 2814 Lake Shore Boulevard, Etobicoke, Ontario. Original flyer and advertised performers."
+  },
+  "/history/flyers/flyer-56/": {
+    "title": "One More Year Pan Dem \u2014 30th Anniversary \u2014 30 MAY 2025 | Kings of Kings International",
+    "description": "One More Year Pan Dem \u2014 30th Anniversary. 30 MAY 2025. 995 Arrow Road, Toronto, Ontario. Original flyer and advertised performers."
+  },
+  "/history/flyers/flyer-57/": {
+    "title": "Fundraising Benefit for Lt. Stitchie \u2014 01 DEC 2024 | Kings of Kings International",
+    "description": "Fundraising Benefit for Lt. Stitchie. 01 DEC 2024. 995 Arrow Road, North York, Ontario. Original flyer and advertised performers."
+  },
+  "/history/flyers/flyer-58/": {
+    "title": "Fundraising Benefit for Lt. Stitchie \u2014 01 DEC 2024 | Kings of Kings International",
+    "description": "Fundraising Benefit for Lt. Stitchie. 01 DEC 2024. 995 Arrow Road, North York, Ontario. Original flyer and advertised performers."
+  },
+  "/history/flyers/flyer-59/": {
+    "title": "Classic \u2014 Celebrating Super D\u2019s Birthday \u2014 30 NOV 2024 | Kings of Kings International",
+    "description": "Classic \u2014 Celebrating Super D\u2019s Birthday. 30 NOV 2024. 995 Arrow Road, North York, Ontario. Original flyer and advertised performers."
+  },
+  "/history/flyers/flyer-60/": {
+    "title": "Grateful Vibes \u2014 Awards Presentation \u2014 October 13 \u2014 year disputed | Kings of Kings International",
+    "description": "Grateful Vibes \u2014 Awards Presentation. October 13 \u2014 year disputed. 995 Arrow Road, North York, Ontario. Original flyer and advertised performers."
+  },
+  "/history/flyers/flyer-61/": {
+    "title": "Tribute to the Legends \u2014 10 MAY 2024 | Kings of Kings International",
+    "description": "Tribute to the Legends. 10 MAY 2024. 995 Arrow Road, Toronto, Ontario. Original flyer and advertised performers."
+  },
+  "/history/flyers/flyer-62/": {
+    "title": "Unite the People \u2014 11 MAY 2024 | Kings of Kings International",
+    "description": "Unite the People. 11 MAY 2024. 2200 Brock Road, Pickering, Ontario. Original flyer and advertised performers."
+  },
+  "/history/flyers/flyer-63/": {
+    "title": "Wonderful Vibrations \u2014 Mother\u2019s Day \u2014 12 MAY 2024 | Kings of Kings International",
+    "description": "Wonderful Vibrations \u2014 Mother\u2019s Day. 12 MAY 2024. 11 Polson Street, Toronto, Ontario. Original flyer and advertised performers."
+  },
+  "/history/flyers/flyer-64/": {
+    "title": "Montr\u00e9al Reggae Extravaganza \u2014 August 23 \u2014 year unconfirmed | Kings of Kings International",
+    "description": "Montr\u00e9al Reggae Extravaganza. August 23 \u2014 year unconfirmed. 59 St Catherine Street East, Montr\u00e9al. Original flyer and advertised performers."
+  },
+  "/history/flyers/flyer-65/": {
+    "title": "Mavado & Friends \u2014 November 5, 2026 | Kings of Kings International",
+    "description": "Mavado & Friends. November 5, 2026. Toronto, Ontario. Original flyer and advertised performers."
+  },
+  "/history/flyers/flyer-66/": {
+    "title": "Reggae Ambassadors in Concert \u2014 09 OCT 2026 | Kings of Kings International",
+    "description": "Reggae Ambassadors in Concert. 09 OCT 2026. 41 Sherbourne Street, Toronto, Ontario. Original flyer and advertised performers."
+  },
+  "/history/flyers/flyer-67/": {
+    "title": "Reggae Ambassadors Day Rave \u2014 11 OCT 2026 | Kings of Kings International",
+    "description": "Reggae Ambassadors Day Rave. 11 OCT 2026. 949 Dillingham Road, Pickering, Ontario. Original flyer and advertised performers."
+  },
+  "/history/flyers/flyer-68/": {
+    "title": "Reggae Ambassadors in Concert \u2014 10 OCT 2026 | Kings of Kings International",
+    "description": "Reggae Ambassadors in Concert. 10 OCT 2026. 6990 Stanley Avenue, Niagara Falls, Ontario. Original flyer and advertised performers."
+  },
+  "/history/flyers/flyer-69/": {
+    "title": "OASIS Music Festival \u2014 23 AUG 2025 | Kings of Kings International",
+    "description": "OASIS Music Festival. 23 AUG 2025. 10801 McCowan Road, Markham, Ontario. Original flyer and advertised performers."
+  },
+  "/history/flyers/flyer-70/": {
+    "title": "One More Year Pan Dem \u2014 30th Anniversary \u2014 30 MAY 2025 | Kings of Kings International",
+    "description": "One More Year Pan Dem \u2014 30th Anniversary. 30 MAY 2025. 995 Arrow Road, Toronto, Ontario. Original flyer and advertised performers."
+  },
+  "/history/flyers/flyer-73/": {
+    "title": "Reggae Extravaganza \u2014 Monthly Series Launch \u2014 28 FEB 2025 | Kings of Kings International",
+    "description": "Reggae Extravaganza \u2014 Monthly Series Launch. 28 FEB 2025. 926 Simcoe Street North, Oshawa, Ontario. Original flyer and advertised performers."
+  },
+  "/history/flyers/flyer-74/": {
+    "title": "Nostalgia \u2014 Eban Brown \u2014 14 FEB 2025 | Kings of Kings International",
+    "description": "Nostalgia \u2014 Eban Brown. 14 FEB 2025. 995 Arrow Road, North York, Ontario. Original flyer and advertised performers."
+  },
+  "/history/flyers/flyer-76/": {
+    "title": "Lover\u2019s Holiday \u2014 CD Release Party \u2014 December 19 \u2014 year not printed | Kings of Kings International",
+    "description": "Lover\u2019s Holiday \u2014 CD Release Party. December 19 \u2014 year not printed. 794 Bathurst Street, Toronto. Original flyer and advertised performers."
+  },
+  "/history/flyers/flyer-77/": {
+    "title": "Unleashed \u2014 Record Release & Showcase \u2014 01 MAY 2016 | Kings of Kings International",
+    "description": "Unleashed \u2014 Record Release & Showcase. 01 MAY 2016. Toronto, Ontario. Original flyer and advertised performers."
+  },
+  "/history/flyers/flyer-80/": {
+    "title": "Wonderful Vibrations \u2014 Mother\u2019s Day \u2014 12 MAY 2024 | Kings of Kings International",
+    "description": "Wonderful Vibrations \u2014 Mother\u2019s Day. 12 MAY 2024. 11 Polson Street, Toronto, Ontario. Original flyer and advertised performers."
+  },
+  "/history/flyers/flyer-81/": {
+    "title": "Unite the People \u2014 11 MAY 2024 | Kings of Kings International",
+    "description": "Unite the People. 11 MAY 2024. 2200 Brock Road, Pickering, Ontario. Original flyer and advertised performers."
+  },
+  "/history/flyers/flyer-82/": {
+    "title": "Magnum Christmas Reggae Extravaganza \u2014 25 DEC 2008 | Kings of Kings International",
+    "description": "Magnum Christmas Reggae Extravaganza. 25 DEC 2008. Black River, St. Elizabeth, Jamaica. Original flyer and advertised performers."
+  },
+  "/history/flyers/flyer-83/": {
+    "title": "Irie Jamboree \u201906 \u2014 2006 \u2014 full date not supplied | Kings of Kings International",
+    "description": "Irie Jamboree \u201906. 2006 \u2014 full date not supplied. Not confirmed. Original flyer and advertised performers."
+  },
+  "/history/flyers/flyer-84/": {
+    "title": "Purple N Grey Summer Mix \u2014 August 13 \u2014 year not legible | Kings of Kings International",
+    "description": "Purple N Grey Summer Mix. August 13 \u2014 year not legible. 5345 de Maisonneuve West, Montr\u00e9al. Original flyer and advertised performers."
+  },
+  "/history/flyers/flyer-85/": {
+    "title": "Rastafari Awareness Day \u2014 March 1, 2008 | Kings of Kings International",
+    "description": "Rastafari Awareness Day. March 1, 2008. Birmingham, United Kingdom. Original flyer and advertised performers."
+  },
+  "/history/flyers/flyer-86/": {
+    "title": "Tribute to the Legends \u2014 10 MAY 2024 | Kings of Kings International",
+    "description": "Tribute to the Legends. 10 MAY 2024. 995 Arrow Road, Toronto, Ontario. Original flyer and advertised performers."
+  },
+  "/history/flyers/lt-stitchie-benefit-inline/": {
+    "title": "Let Us Save a Life \u2014 Lt. Stitchie benefit poster \u2014 Date not fully confirmed | Kings of Kings International",
+    "description": "Let Us Save a Life \u2014 Lt. Stitchie benefit poster. Date not fully confirmed. Not fully confirmed. Original flyer and advertised performers."
+  },
+  "/history/flyers/capleton-bbking/": {
+    "title": "Capleton \u2014 Reign of Fire Tour \u2014 September 14 \u2014 year unconfirmed | Kings of Kings International",
+    "description": "Capleton \u2014 Reign of Fire Tour. September 14 \u2014 year unconfirmed. New York City. Original flyer and advertised performers."
+  },
+  "/history/flyers/western-consciousness/": {
+    "title": "Western Consciousness \u2014 April 30, 2011 | Kings of Kings International",
+    "description": "Western Consciousness. April 30, 2011. Smithfield, Savanna-la-Mar, Westmoreland, Jamaica. Original flyer and advertised performers."
+  },
+  "/history/flyers/miracle-jamaica-day/": {
+    "title": "Miracle \u2014 Jamaica Day \u2014 Sunday September 2 \u2014 year not printed | Kings of Kings International",
+    "description": "Miracle \u2014 Jamaica Day. Sunday September 2 \u2014 year not printed. Toronto, Ontario. Original flyer and advertised performers."
+  },
+  "/history/flyers/unleashed-toronto/": {
+    "title": "Unleashed \u2014 Toronto Record Release \u2014 May 1, 2016 | Kings of Kings International",
+    "description": "Unleashed \u2014 Toronto Record Release. May 1, 2016. 735 Queen Street East, Toronto. Original flyer and advertised performers."
+  },
+  "/history/flyers/unleashed-montreal/": {
+    "title": "Unleashed \u2014 Montr\u00e9al Record Release \u2014 April 30, 2016 | Kings of Kings International",
+    "description": "Unleashed \u2014 Montr\u00e9al Record Release. April 30, 2016. 4483 Boulevard Saint-Laurent, Montr\u00e9al. Original flyer and advertised performers."
+  },
+  "/history/flyers/cocoa-tea-2018/": {
+    "title": "1000 Degrees of Sweet \u2014 October 7, 2018 | Kings of Kings International",
+    "description": "1000 Degrees of Sweet. October 7, 2018. Toronto, Ontario. Original flyer and advertised performers."
+  },
+  "/history/flyers/lovers-showcase/": {
+    "title": "Lover\u2019s Holiday \u2014 CD Release Showcase \u2014 December 19 \u2014 year not printed | Kings of Kings International",
+    "description": "Lover\u2019s Holiday \u2014 CD Release Showcase. December 19 \u2014 year not printed. 794 Bathurst Street, Toronto. Original flyer and advertised performers."
+  },
+  "/history/site-event-collection/": {
+    "title": "Original Event Posters & Campaigns | Kings Archive | Kings of Kings International",
+    "description": "Explore preserved Kings concert posters, regional campaigns and partner-event artwork, with clear dates and source references."
+  },
+  "/history/brand-identity/": {
+    "title": "Kings of Kings Logos & Banners | Visual Brand History | Kings of Kings International",
+    "description": "Explore the original Kings of Kings crown, International lions crest, logo variants and colourful banners preserved from the record, concert and website archives."
+  },
+  "/privacy/": {
+    "title": "Privacy & Cookies | Kings of Kings International",
+    "description": "Privacy and cookie information for the Kings of Kings International website preview, including browser preferences and external links."
+  },
+  "/artists/": {
+    "title": "Artists in the Kings Archive | Recording Credits & Live Shows | Kings of Kings International",
+    "description": "Explore Kings of Kings artist release credits and historic concert appearances, with source-linked records and original show flyers."
+  },
+  "/artists/colin-levy/": {
+    "title": "Colin Levy / Iley Dread | Records & Live Archive | Kings of Kings International",
+    "description": "Explore Colin Levy, Iley Dread and Iley Chardavid through original Kings release artwork, Lover\u2019s Holiday, Unleashed and concert-showcase history."
+  },
+  "/contests/": {
+    "title": "Upliftment Giveaway | January 5, 2027 | Kings of Kings International",
+    "description": "Kings of Kings plans an Upliftment album and T-shirt giveaway for three winners to celebrate January 5, 2027. Entry details and official rules coming soon."
+  },
+  "/top-15/": {
+    "title": "Kings of Kings Top 15 Chart | Coming Soon | Kings of Kings International",
+    "description": "Join the notification list for the Kings of Kings Top 15 Chart. Coming soon."
+  },
+  "/site-map/": {
+    "title": "Site Map | Kings of Kings International",
+    "description": "Find Kings of Kings International events, archives, contact information, merchandise enquiries and company information. "
+  }
+}

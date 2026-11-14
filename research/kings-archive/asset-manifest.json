@@ -1,0 +1,257 @@
+[
+  {
+    "name": "kings-international-logo",
+    "source": "/Volumes/MultiMedia-12TB/Colin Levy/KOK-Logo-profile.png",
+    "source_dimensions": [
+      435,
+      373
+    ],
+    "web_dimensions": [
+      435,
+      373
+    ],
+    "source_color_mode": "RGB",
+    "embedded_profile": false,
+    "alpha": false
+  },
+  {
+    "name": "kings-records-logo",
+    "source": "/Volumes/MultiMedia-12TB/Colin Levy/2016/KOK WHITE.jpg",
+    "source_dimensions": [
+      518,
+      269
+    ],
+    "web_dimensions": [
+      518,
+      269
+    ],
+    "source_color_mode": "CMYK",
+    "embedded_profile": true,
+    "alpha": false
+  },
+  {
+    "name": "shows-display",
+    "source": "/Volumes/MultiMedia-12TB/Colin Levy/flyer's display.png",
+    "source_dimensions": [
+      2048,
+      1136
+    ],
+    "web_dimensions": [
+      1800,
+      998
+    ],
+    "source_color_mode": "RGB",
+    "embedded_profile": false,
+    "alpha": false
+  },
+  {
+    "name": "miracle",
+    "source": "/Volumes/MultiMedia-12TB/Colin Levy/Miracle.jpg",
+    "source_dimensions": [
+      2400,
+      2400
+    ],
+    "web_dimensions": [
+      1800,
+      1800
+    ],
+    "source_color_mode": "RGB",
+    "embedded_profile": true,
+    "alpha": false
+  },
+  {
+    "name": "unite-the-people",
+    "source": "/Volumes/MultiMedia-12TB/Colin Levy/Unite the people remastered art.jpg",
+    "source_dimensions": [
+      3000,
+      3000
+    ],
+    "web_dimensions": [
+      1800,
+      1800
+    ],
+    "source_color_mode": "RGB",
+    "embedded_profile": true,
+    "alpha": false
+  },
+  {
+    "name": "cocoa-tea-2018",
+    "source": "/Volumes/MultiMedia-12TB/Colin Levy/1000-Degrees.jpg",
+    "source_dimensions": [
+      1800,
+      2400
+    ],
+    "web_dimensions": [
+      1650,
+      2200
+    ],
+    "source_color_mode": "RGB",
+    "embedded_profile": true,
+    "alpha": false
+  },
+  {
+    "name": "lovers-holiday-ad",
+    "source": "/Volumes/MultiMedia-12TB/Colin Levy/2010/8x10 ad reggaeXclusive.jpg",
+    "source_dimensions": [
+      2400,
+      3000
+    ],
+    "web_dimensions": [
+      1760,
+      2200
+    ],
+    "source_color_mode": "RGB",
+    "embedded_profile": true,
+    "alpha": false
+  },
+  {
+    "name": "release-showcase-2010",
+    "source": "/Volumes/MultiMedia-12TB/Colin Levy/2010/Single Release Party 2.jpg",
+    "source_dimensions": [
+      2550,
+      1650
+    ],
+    "web_dimensions": [
+      1800,
+      1165
+    ],
+    "source_color_mode": "RGB",
+    "embedded_profile": true,
+    "alpha": false
+  },
+  {
+    "name": "lovers-holiday",
+    "source": "/Volumes/MultiMedia-12TB/Colin Levy/2011/cover for download site.jpg",
+    "source_dimensions": [
+      1406,
+      1406
+    ],
+    "web_dimensions": [
+      1406,
+      1406
+    ],
+    "source_color_mode": "RGB",
+    "embedded_profile": true,
+    "alpha": false
+  },
+  {
+    "name": "unleashed-press",
+    "source": "/Volumes/MultiMedia-12TB/Colin Levy/2011/mag cover.jpg",
+    "source_dimensions": [
+      2400,
+      3000
+    ],
+    "web_dimensions": [
+      1760,
+      2200
+    ],
+    "source_color_mode": "RGB",
+    "embedded_profile": true,
+    "alpha": false
+  },
+  {
+    "name": "western-consciousness-2011",
+    "source": "/Volumes/MultiMedia-12TB/Colin Levy/2011/western2.jpg",
+    "source_dimensions": [
+      2400,
+      3000
+    ],
+    "web_dimensions": [
+      1760,
+      2200
+    ],
+    "source_color_mode": "RGB",
+    "embedded_profile": true,
+    "alpha": false
+  },
+  {
+    "name": "unleashed-2016",
+    "source": "/Volumes/MultiMedia-12TB/Colin Levy/2016/Iley-UNLEASHED-Cover-4x5.jpg",
+    "source_dimensions": [
+      1183,
+      1479
+    ],
+    "web_dimensions": [
+      1183,
+      1479
+    ],
+    "source_color_mode": "RGB",
+    "embedded_profile": true,
+    "alpha": false
+  },
+  {
+    "name": "toronto-2016",
+    "source": "/Volumes/MultiMedia-12TB/Colin Levy/2016/May 1 flyer/Toronto Flyer 5x8.jpg",
+    "source_dimensions": [
+      720,
+      1152
+    ],
+    "web_dimensions": [
+      720,
+      1152
+    ],
+    "source_color_mode": "RGB",
+    "embedded_profile": true,
+    "alpha": false
+  },
+  {
+    "name": "montreal-2016",
+    "source": "work/kings-archive/montreal.png",
+    "source_dimensions": [
+      1125,
+      1800
+    ],
+    "web_dimensions": [
+      1125,
+      1800
+    ],
+    "source_color_mode": "RGB",
+    "embedded_profile": false,
+    "alpha": false
+  },
+  {
+    "name": "capleton-archive",
+    "source": "work/kings-archive/capleton-2009.png",
+    "source_dimensions": [
+      579,
+      864
+    ],
+    "web_dimensions": [
+      579,
+      864
+    ],
+    "source_color_mode": "RGB",
+    "embedded_profile": true,
+    "alpha": false
+  },
+  {
+    "name": "unleashed-portrait",
+    "source": "work/kings-archive/reggaexclusive-2010.png",
+    "source_dimensions": [
+      1760,
+      2200
+    ],
+    "web_dimensions": [
+      1760,
+      2200
+    ],
+    "source_color_mode": "RGB",
+    "embedded_profile": true,
+    "alpha": false
+  },
+  {
+    "name": "miracle-jamaica-day",
+    "source": "/Volumes/MultiMedia-12TB/Colin Levy/miracle jamacia day flyer.jpg",
+    "source_dimensions": [
+      1425,
+      2025
+    ],
+    "web_dimensions": [
+      1425,
+      2025
+    ],
+    "source_color_mode": "RGB",
+    "embedded_profile": true,
+    "alpha": false
+  }
+]

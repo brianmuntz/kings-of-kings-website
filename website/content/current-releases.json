@@ -1,0 +1,38 @@
+[
+  {
+    "id": "islands-in-the-stream",
+    "title": "Islands in the Stream",
+    "artist": "Iley Dread ft. Mel C",
+    "image": "/assets/current/islands-in-the-stream.webp",
+    "edition": "Streaming everywhere",
+    "description": "Islands in the Stream — current release artwork from Kings of Kings.",
+    "source": "Islands In The STream Cover.png"
+  },
+  {
+    "id": "love-me-forever",
+    "title": "Love Me Forever",
+    "artist": "",
+    "image": "/assets/current/love-me-forever.webp",
+    "edition": "Streaming everywhere",
+    "description": "Love Me Forever — current release artwork from Kings of Kings.",
+    "source": "codex-clipboard-e4b4453c-af31-4562-8d97-46972639a046.png"
+  },
+  {
+    "id": "many-rivers",
+    "title": "Many Rivers",
+    "artist": "",
+    "image": "/assets/current/many-rivers.webp",
+    "edition": "Streaming everywhere",
+    "description": "Many Rivers — current release artwork from Kings of Kings.",
+    "source": "04-aug-2.png"
+  },
+  {
+    "id": "nah-cheat",
+    "title": "Nah Cheat — Virtuous Woman",
+    "artist": "Iley Dread",
+    "image": "/assets/current/nah-cheat.webp",
+    "edition": "Streaming everywhere",
+    "description": "Nah Cheat — Virtuous Woman — current release artwork from Kings of Kings.",
+    "source": "Nah Cheat cover.png"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "id": "capleton-cocoa-tea",
+    "title": "Capleton. Cocoa Tea. New York.",
+    "kicker": "THE INTERNATIONAL STAGE",
+    "image": "/assets/archive/capleton-archive.webp",
+    "text": "The Reign of Fire Tour flyer pairs Capleton with special guest Cocoa Tea at B.B. King Blues Club & Grill in New York. A Kings of Kings crest appears on the original artwork.",
+    "caption": "September 14 \u00b7 year not printed on this flyer",
+    "artists": [
+      "Capleton",
+      "Cocoa Tea"
+    ]
+  },
+  {
+    "id": "western-consciousness",
+    "title": "Western Consciousness",
+    "kicker": "FROM THE SUPPLIED ARCHIVE / 2011",
+    "image": "/assets/archive/western-consciousness-2011.webp",
+    "text": "The April 30, 2011 poster lists Beenie Man, Bounty Killer, I-Octane, Lutan Fyah, Romain Virgo, Tanya Stephens, Freddie McGregor, Turbulence and Iley Dread among its advertised lineup. The promoter is credited on the artwork as King of Kings Promotions.",
+    "caption": "Paradise Park, Westmoreland, Jamaica \u00b7 April 30, 2011",
+    "artists": [
+      "Beenie Man",
+      "Bounty Killer",
+      "I-Octane",
+      "Lutan Fyah",
+      "Romain Virgo",
+      "Tanya Stephens",
+      "Freddie McGregor",
+      "Turbulence",
+      "Iley Dread"
+    ]
+  },
+  {
+    "id": "lovers-holiday-showcase",
+    "title": "Lover\u2019s Holiday, live in Toronto",
+    "kicker": "RECORDS MEET THE STAGE",
+    "image": "/assets/archive/release-showcase-2010.webp",
+    "text": "A record-release showcase at the Annex WreckRoom brings together Colin Levy, Len Hammond, Geoffrey Star, Chrisinti and Nana McLean. The original flyer connects the record to a live lovers-rock experience.",
+    "caption": "December 19 \u00b7 original release-showcase artwork",
+    "artists": [
+      "Colin Levy",
+      "Len Hammond",
+      "Geoffrey Star",
+      "Chrisinti",
+      "Nana McLean"
+    ]
+  }
+]
